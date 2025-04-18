@@ -64,13 +64,3 @@
 ![Mamba](https://img.shields.io/badge/Mamba-FF7E00?logo=mamba&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-000000?logo=jupyterlab&logoColor=white)
-
-## 🚀 Projects & Publications
-_coming soon…_
-
-## 🎉 Fun & Personality
-![Powerlifter](https://img.shields.io/badge/Powerlifter-000000)
-![PC Gamer](https://img.shields.io/badge/PC%20Gamer-663399)
-![PC Builder](https://img.shields.io/badge/PC Builder-232D4B)
-![Hip‑Hop](https://img.shields.io/badge/Hip%E2%80%91Hop-F37626)
-![Anime](https://img.shields.io/badge/Anime-CC0000)
